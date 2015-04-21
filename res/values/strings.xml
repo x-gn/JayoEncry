@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Jack Enc/Dec</string>
+    <string name="app_name">JayoKit</string>
     <string name="title_item_detail">Item Detail</string>
     <string name="enter_button_name">enter</string>
 
